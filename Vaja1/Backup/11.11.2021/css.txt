@@ -1,0 +1,147 @@
+* {
+    text-align: center;
+    background-color: rgb(34, 34, 34);
+    color:rgb(235, 235, 235);
+}
+
+h1 {
+    text-shadow:10px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+
+h2{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35;   
+}
+
+.button1 {
+    background-color:rgb(34, 34, 34);
+    color:rgb(235, 235, 235);
+    outline-color: rgb(235, 235, 235);
+    font-size: 18;
+    padding: 15px;
+    margin:10px;
+    border: 1.5px solid rgb(235, 235, 235);
+    border-radius: 5%;
+}
+
+.button1:hover {
+    background-color: #dfdfdf;
+    color: rgb(32, 32, 32);
+  }
+
+
+img {
+    object-fit:cover;
+}
+
+p {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 3px;
+    color: rgb(185, 185, 185);
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 12;
+    overflow: hidden;
+    background-color: rgb(34, 34, 34);
+  }
+
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+  
+  .searchbar {
+      font-size: 20px;
+      border: 1.5px solid rgb(235, 235, 235);
+      float: right;
+  }
+
+  div {
+    display: inline-block;
+    width: 240px;
+    height: 270px;
+    text-align: center;
+    vertical-align: top;
+    box-shadow: 0 .5px 5px 0 rgba(0,0,0,0.2);
+  }
+
+  .slika2 {
+    width: 600px;
+    border: 1.5px solid rgb(235, 235, 235);
+  }
+
+  .kvadrat {
+    width:40%;
+    border: 1.5px solid rgb(235, 235, 235);
+  }
+
+  .vkvadratu {
+    font-size: 20;
+    text-align: left;
+    
+  }
+
+  div h2 {
+    text-align: left;
+  }
+
+  .podokvir {
+    border: 1.5px solid rgb(235, 235, 235);
+    width: 600px;
+  }
+
+
+  .button2 {
+    background-color:rgb(253, 119, 56);
+    color:rgb(0, 0, 0);
+    outline-color: rgb(235, 235, 235);
+    font-size: 18;
+    padding: 15px;
+    margin:10px;
+    border-radius: 5%;
+}
+
+.button2:hover {
+    background-color: rgb(255, 142, 89);
+    color: rgb(32, 32, 32);
+    outline-color: rgb(253, 119, 56);
+    border: 2px solid rgb(253, 119, 56);
+  }
+
+  .button3 {
+    background-color:rgb(34, 34, 34);
+    color:rgb(235, 235, 235);
+    outline-color: rgb(235, 235, 235);
+    font-size: 18;
+    padding: 15px;
+    margin:10px;
+    border: 1.5px solid rgb(235, 235, 235);
+    border-radius: 5%;
+}
+
+.button3:hover {
+    
+    color: rgb(253, 119, 56);
+    outline-color: rgb(253, 119, 56);
+    border: 2px solid rgb(253, 119, 56);
+  }
